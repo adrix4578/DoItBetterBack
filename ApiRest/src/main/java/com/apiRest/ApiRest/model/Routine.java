@@ -16,6 +16,7 @@ public class Routine {
     private Boolean published;
     private String exercises;
 
+    //a
     public Long getId() {
         return id;
     }
